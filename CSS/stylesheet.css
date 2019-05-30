@@ -2,7 +2,9 @@
   padding:0.01em 16px;
   font-family: Verdana;
   font-size:15px;
-  line-height:1.5
+  line-height:1.5;
+  width: 868px;
+  margin: auto;
 }
 
 .w3-red {
@@ -17,6 +19,8 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  width: 900px;
+  margin: auto;
 }
 
 li {
